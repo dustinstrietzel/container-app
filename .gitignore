@@ -1,6 +1,6 @@
-# Terraform's downloaded providers (recreated by terraform init)
+
 .terraform/
 
-# Terraform state files (appear after your first apply)
+
 *.tfstate
 *.tfstate.*
